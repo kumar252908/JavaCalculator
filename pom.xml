@@ -30,7 +30,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.ravi.cal.RaviCalculator.Calculator</mainClass>
+            <mainClass>com.ibm.JavaCalculator.App</mainClass>
           </manifest>
         </archive>
       </configuration>
